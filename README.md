@@ -1,4 +1,4 @@
-# COVID-19-testing-database analysis code
+# COVID-19 testing database analysis code
 
 The code to reproduce all the results and figures in 
 
